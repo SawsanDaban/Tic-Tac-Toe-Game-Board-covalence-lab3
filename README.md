@@ -1,4 +1,4 @@
-# Covalence Lab 3
+# Tic Tac Toe Game Board Covalence Lab 3
 Covalence Lab 3 solution for CSS course on web devolopment track.
 
 ## Tasks Instructions
